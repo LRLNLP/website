@@ -8,39 +8,53 @@ menu: main
 
 ---
 
-## BLEMORE Workshop and Competition on Multimodal Blended Emotion Recognition at ACII’25
+## LRLNLP Workshop on Advancing NLP for Low-Resource Languages at RANLP 2025 (Varna, Bulgaria)
 
-https://blemore.github.io/workshop/
+🔗 [LRLNLP Info](https://lrlnlp.github.io/website/)
 
-Humans often experience multiple emotions simultaneously, such as feeling both sadness and anger when facing an unjust 
-loss or happiness and surprise at a birthday party. However, emotion recognition research has largely focused on single 
-emotions due to limited datasets and a lack of awareness. BLEMORE aims to bridge this gap by advancing the recognition 
-of multimodal blended emotional expressions. We invite submissions on blended emotion recognition in two tracks: a 
-general track and a challenge track. In the general track, we invite submissions relevant for the topic of blended 
-emotion recognition. These submissions may address a range of different problem formulations and research questions. 
-The challenge track introduces a novel dataset of multimodal emotion expressions that contains both single emotions 
-and blended emotions conveyed with similar and varying proportions. Papers addressing the BLEMORE challenge will follow a pre-defined evaluation protocol.  
+---
 
-**1. General Track:** Here, we invite submissions concerned with the general problem of blended emotion recognition. 
-Submissions may address the problem using a variety of modalities and datasets. In addition to novel computational approaches, 
-we also encourage submissions that enhance our understanding of the problem of blended emotion recognition. Evaluation on the challenge dataset is not required but will still be valued.
+## Topics of Interest
 
+We invite submissions on all topics related to Natural Language Processing (NLP) for **low-resource languages**, including but not limited to:
 
-**2. Challenge Track:** In this track, we invite submissions which utilize the challenge dataset and pre-defined evaluation metrics. 
-We employ two evaluation metrics: _ACCpresence_ measures whether the correct label(s) are predicted without errors. 
-A correct prediction must include all present emotions while avoiding false negatives 
-(e.g., predicting only one emotion in a blend of two emotions) and false positives 
-(e.g., predicting emotions that are not part of the label). _ACCsalience_ extends _ACCpresence_ by considering the relative prominence of each emotion. 
-It evaluates whether the predicted proportions reflect the correct ranking. This metric applies only to blended emotions. 
-Further details on the challenge can be found [here](https://blemore.github.io/workshop/challenge/)
+- Language models and large language models for low-resource languages
+- Corpora creation and curation technologies for low-resource languages
+- Evaluation benchmarks for language models in low-resource languages
+- Language models and resources for low-resource languages in Spain
+- Machine/pivot translation for low-resource languages
+- Fairness in resources and models for low-resource languages
+- Prompting learning strategies for large language models
+- Transfer learning and cross-lingual approaches for low-resource NLP
+- Massively multilingual approaches to low-resource NLP
 
+---
 
-### Important Dates
+## Important Dates
 
-- Paper submission deadline for workshops: 30 June 2025
-- Workshop papers decision notification: 28 July 2025
-- Workshop camera-ready deadline: 20 August 2025
- 
-### Submission
+| Event | Date |
+|-------|------|
+| 📝 Paper Submission Deadline | **6 July 2025** |
+| 📢 Acceptance Notification | **31 July 2025** |
+| 🛠️ Camera-Ready Paper Deadline | **30 August 2025** |
+| 📚 Final Proceedings Submission | **8 September 2025** |
+| 🧑‍🏫 Workshop Dates | **11–13 September 2025** |
 
-Submissions in both tracks should follow the general ACII guidelines (max. 7 pages main text + 1 page optional ethics statement + unlimited references).
+---
+
+## Submission Formats
+
+- **Full papers**: up to **8 pages** (excluding references and ethics statement)
+- **Short papers**: up to **4 pages** (excluding references and ethics statement)
+- Use the **ACL 2025 style templates**:  
+  🔗 [ACL Template and Guidelines](https://ranlp.org/ranlp2025/index.php/submissions/)
+
+All submissions must include an ethics/broader impact statement and will be peer-reviewed in accordance with ACL standards.
+
+---
+
+## Organizers
+
+- To be announced soon.
+
+If you're interested in low-resource NLP and multilingual model development, we look forward to your submission!

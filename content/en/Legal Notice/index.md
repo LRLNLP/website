@@ -12,7 +12,7 @@ menu: main
 #### Responsible service provider
 
 Responsible for the content of the domain  
-https://blemore.github.io/workshop/  
+https://lrlnlp.github.io/website/  
 from the point of view of § 5 TMG:
 
 #### Deutsches Forschungszentrum für Künstliche Intelligenz GmbH (DFKI)

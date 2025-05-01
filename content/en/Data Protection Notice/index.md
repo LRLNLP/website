@@ -23,7 +23,7 @@ datenschutz@dfki.de
 
 #### Purpose of processing
 
-- Provision of information for researchers interested in the BLEMORE workshop at ACII 2025.
+- Provision of information for researchers interested in the LRLNLP workshop at RANLP 2025.
 - Establishment of contact and correspondence between interested researchers and workshop organizers
 #### Anonymous and protected usage
 
