@@ -1,5 +1,5 @@
 ---
-title: "BLEMORE"
+title: "LRLNLP"
 weight: 0
 description: "The Workshop and Competition on Multimodal Blended Emotion Recognition"
 
