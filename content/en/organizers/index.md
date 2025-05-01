@@ -8,12 +8,6 @@ type: page
 menu: main
 ---
 
-{{< team-container >}}
-{{< /team-container >}}
-
-<br>  
-</br>  
-
 ### Organizing Committee
 
 - **Ernesto Luis Estevanell-Valladares** (University of Alicante, Spain; University of Havana, Cuba)  
