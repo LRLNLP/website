@@ -53,8 +53,4 @@ All submissions must include an ethics/broader impact statement and will be peer
 
 ---
 
-## Organizers
-
-- To be announced soon.
-
 If you're interested in low-resource NLP and multilingual model development, we look forward to your submission!

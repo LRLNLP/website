@@ -12,7 +12,7 @@ menu:
     name: "Home"
 ---
 
-# 🌍 LRLNLP 2025  
+# LRLNLP 2025  
 ### Workshop on Advancing NLP for Low-Resource Languages  
 📍 **RANLP 2025**, Varna, Bulgaria  
 📅 **September 11–13, 2025**
@@ -22,12 +22,6 @@ menu:
 **LRLNLP** brings together researchers and practitioners working on Natural Language Processing for **low-resource and underrepresented languages**. The goal is to inspire impactful research, foster collaboration, and support the development of models, tools, and datasets for languages that are often overlooked.
 
 ---
-
-On this website, you will find:
-
-- 📢 [Call for Papers](./call-for-papers)
-- 👥 [Organizers](./organizers)
-- 📝 [Program Committee](./program-committee)
 
 Stay tuned for updates as we approach the workshop date!
 
