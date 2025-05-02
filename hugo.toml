@@ -1,4 +1,4 @@
-title = "LRLNLP"
+title = "LowResNLP"
 baseURL = ""
 languageCode = "en-us"
 theme = ["ananke"]
@@ -12,7 +12,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "LRLNLP"
+    title = "LowResNLP"
     weight = 1
     contentDir = "content/en"
     # languageDirection = 'rtl' for Right-To-Left languages
