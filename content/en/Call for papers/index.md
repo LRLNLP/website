@@ -8,7 +8,7 @@ menu: main
 
 ---
 
-## LRLNLP Workshop on Advancing NLP for Low-Resource Languages at RANLP 2025 (Varna, Bulgaria)
+## LowResNLP Workshop on Advancing NLP for Low-Resource Languages at RANLP 2025 (Varna, Bulgaria)
 
 https://lrlnlp.github.io/website/
 
