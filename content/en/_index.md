@@ -12,14 +12,15 @@ menu:
     name: "Home"
 ---
 
-# LowResNLP 2025  
-### Workshop on Advancing NLP for Low-Resource Languages  
-📍 **RANLP 2025**, Varna, Bulgaria  
-📅 **September 11–13, 2025**
+# LowResNLP: Workshop on Advancing NLP for Low-Resource Languages at **RANLP 2025**, Varna, Bulgaria  
 
 ---
 
-**LowResNLP** brings together researchers and practitioners working on Natural Language Processing for **low-resource and underrepresented languages**. The goal is to inspire impactful research, foster collaboration, and support the development of models, tools, and datasets for languages that are often overlooked.
+Despite rapid progress in Natural Language Processing (NLP), the benefits of recent advances - especially large language models (LLMs) - remain unevenly distributed. While high-resource languages like English, French, and Chinese have seen significant performance gains, low-resource languages continue to face substantial challenges across core NLP tasks such as machine translation, sentiment analysis, named entity recognition (NER), and part-of-speech tagging.
+
+These disparities arise from a combination of factors: the scarcity of high-quality training data, limited linguistic resources, and a lack of community involvement in data collection and model development. As a result, many languages, particularly African, Indigenous, and minority languages, remain underrepresented in both academic research and deployed NLP systems.
+
+**LowResNLP** is a workshop dedicated to addressing these challenges by fostering research, collaboration, and discussion around methods, resources, and evaluation practices specifically designed for low-resource languages. LowResNLP seeks to actively contribute to the field by inviting submissions that specifically address the unique challenges and opportunities involved in working with low-resource languages.
 
 ---
 
