@@ -14,7 +14,7 @@ menu:
 
 <!-- # LowResNLP: Workshop on Advancing NLP for Low-Resource Languages at **RANLP 2025**, Varna, Bulgaria   -->
 
----
+<!-- --- -->
 
 Despite rapid progress in Natural Language Processing (NLP), the benefits of recent advances - especially large language models (LLMs) - remain unevenly distributed. While high-resource languages like English, French, and Chinese have seen significant performance gains, low-resource languages continue to face substantial challenges across core NLP tasks such as machine translation, sentiment analysis, named entity recognition (NER), and part-of-speech tagging.
 
