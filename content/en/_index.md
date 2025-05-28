@@ -1,7 +1,7 @@
 ---
 title: "LowResNLP"
 weight: 0
-description: "The Workshop on Advancing NLP for Low-Resource Languages"
+description: "Workshop on Advancing NLP for Low-Resource Languages at RANLP 2025 (Varna, Bulgaria)"
 
 theme_version: '2.8.2'
 cascade:
@@ -12,7 +12,7 @@ menu:
     name: "Home"
 ---
 
-# LowResNLP: Workshop on Advancing NLP for Low-Resource Languages at **RANLP 2025**, Varna, Bulgaria  
+<!-- # LowResNLP: Workshop on Advancing NLP for Low-Resource Languages at **RANLP 2025**, Varna, Bulgaria   -->
 
 ---
 
