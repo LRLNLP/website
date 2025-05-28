@@ -26,13 +26,13 @@ We invite submissions on all topics related to Natural Language Processing (NLP)
 
 ## Important Dates
 
-| Event                                  | Date                 |
-| -------------------------------------- | -------------------- |
-| **Paper submission deadline**          | <span style="color:red">6 July 2025</span>          |
-| **Notification of acceptance**         | 31 July 2025         |
-| **Camera-ready paper due**             | 30 August 2025       |
-| **Proceedings ready**                  | 8 September 2025     |
-| **Workshop dates**                     | 11–13 September 2025 |
+| Event                                  | Date                        |
+| -------------------------------------- | --------------------------- |
+| **Paper submission deadline**          | &nbsp;&nbsp;<span style="color:red">6 July 2025</span>&nbsp;&nbsp; |
+| **Notification of acceptance**         | &nbsp;&nbsp;31 July 2025&nbsp;&nbsp;         |
+| **Camera-ready paper due**             | &nbsp;&nbsp;30 August 2025&nbsp;&nbsp;       |
+| **Proceedings ready**                  | &nbsp;&nbsp;8 September 2025&nbsp;&nbsp;     |
+| **Workshop dates**                     | &nbsp;&nbsp;11–13 September 2025&nbsp;&nbsp; |
 
 
 ---
@@ -43,7 +43,7 @@ We invite the submission of both full papers and short papers.
 
 - **Full papers** should not exceed **8 pages** (plus unlimited number of pages for references and ethics/broader impact statement)
 - **Short papers**: should not exceed **4 pages** (plus unlimited number of pages for references and ethics/broader impact statement)
-- All submissions should be prepared using **the current ACL templates** (see https://ranlp.org/ranlp2025/index.php/submissions/)
+- All submissions should be prepared using **the current ACL templates** (see on [the conference page](https://ranlp.org/ranlp2025/index.php/submissions))
 
 ---
 
