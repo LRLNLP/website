@@ -8,12 +8,6 @@ menu: main
 
 ---
 
-## LowResNLP Workshop on Advancing NLP for Low-Resource Languages at RANLP 2025 (Varna, Bulgaria)
-
-https://lrlnlp.github.io/website/
-
----
-
 ## Topics of Interest
 
 We invite submissions on all topics related to Natural Language Processing (NLP) for **low-resource languages**, including but not limited to:
@@ -34,7 +28,7 @@ We invite submissions on all topics related to Natural Language Processing (NLP)
 
 | Event                                  | Date                 |
 | -------------------------------------- | -------------------- |
-| **Workshop paper submission deadline** | 6 July 2025          |
+| **Paper submission deadline**          | <span style="color:red">6 July 2025</span>          |
 | **Notification of acceptance**         | 31 July 2025         |
 | **Camera-ready paper due**             | 30 August 2025       |
 | **Proceedings ready**                  | 8 September 2025     |
