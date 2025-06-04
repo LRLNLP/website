@@ -1,5 +1,5 @@
 ---
-title: Organizers
+title: Organizers and Contact
 weight: 6
 featured_image: '/images/banner_large.png'
 omit_header_text: true
@@ -9,6 +9,9 @@ menu: main
 ---
 
 ### Organizing Committee
+
+For any questions, please drop a mail to loewresnlp-2025-organizers@googlegroups.com 
+
 
 - **Ernesto Luis Estevanell-Valladares** (University of Alicante, Spain; University of Havana, Cuba)  
 - **Alicia Picazo-Izquierdo** (University of Alicante, Spain)  
