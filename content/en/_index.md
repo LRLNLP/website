@@ -24,7 +24,7 @@ These disparities arise from a combination of factors: the scarcity of high-qual
 
 ---
 
-For any questions, please drop a mail to loewresnlp-2025-organizers@googlegroups.com 
+For any questions, please drop a mail to lowresnlp-2025-organizers@googlegroups.com 
 
 Stay tuned for updates as we approach the workshop date!
 
