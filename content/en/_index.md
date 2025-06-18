@@ -5,7 +5,7 @@ description: "Workshop on Advancing NLP for Low-Resource Languages at RANLP 2025
 
 theme_version: '2.8.2'
 cascade:
-  featured_image: 'images/banner_large.png'
+  featured_image: 'images/lrls_bg.png'
 menu:
   main:
     weight: 1
