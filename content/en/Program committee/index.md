@@ -8,7 +8,6 @@ menu:
     weight: 4
 ---
 
-## Programme Committee:
 - Nora Aranberri (University of Basque Country)
 - Sudhansu Bala Das (School of Languages, Literatures & Cultures and Insight SFI Research Centre for Data Analytics, University of - Galway, Ireland)
 - Ana‑Maria Bucur (University of Bucharest)
