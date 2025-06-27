@@ -28,7 +28,7 @@ We invite submissions on all topics related to Natural Language Processing (NLP)
 
 | Event                                  | Date                        |
 | -------------------------------------- | --------------------------- |
-| **Paper submission deadline**          | &nbsp;&nbsp;<span style="color:red">6 July 2025 (AoE)</span>&nbsp;&nbsp; |
+| **Paper submission deadline**          | &nbsp;&nbsp;<span style="text-decoration:line-through">6 July 2025 (AoE)</span>&nbsp;&nbsp; <span style="color:red">15 July 2025 (AoE)</span>&nbsp;&nbsp; |
 | **Notification of acceptance**         | &nbsp;&nbsp;31 July 2025&nbsp;&nbsp;         |
 | **Camera-ready paper due**             | &nbsp;&nbsp;30 August 2025&nbsp;&nbsp;       |
 | **Proceedings ready**                  | &nbsp;&nbsp;8 September 2025&nbsp;&nbsp;     |
