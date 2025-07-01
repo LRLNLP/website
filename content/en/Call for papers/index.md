@@ -43,8 +43,7 @@ We invite the submission of both full papers and short papers.
 
 - **Full papers** should not exceed **8 pages** (plus unlimited number of pages for references and ethics/broader impact statement)
 - **Short papers**: should not exceed **4 pages** (plus unlimited number of pages for references and ethics/broader impact statement)
-- All submissions should be prepared using **the current ACL templates**
-(see the conference page: https://ranlp.org/ranlp2025/index.php/submissions )
+- All submissions should be prepared using **the current ACL templates**: https://ranlp.org/ranlp2025/index.php/submissions
 - Papers should be submitted through SoftConf: https://softconf.com/ranlp25/LowResNLP2025 
 
 
