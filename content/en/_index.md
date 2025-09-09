@@ -30,4 +30,4 @@ Stay tuned for updates as we approach the workshop date!
 
 We look forward to your submissions and participation in Varna!
 
-This workshop was partially supported by the European Union under Horizon Europe project "GAIN" (GA #101078950).
+This workshop was partially supported by the European Union under Horizon Europe projects "GAIN" (GA #101078950), "DisAI" (GA #101079164), and "lorAI" (GA #101136646).
