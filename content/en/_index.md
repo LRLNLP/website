@@ -26,9 +26,11 @@ These disparities arise from a combination of factors: the scarcity of high-qual
 
 ## Schedule (September 13, 2025)
 
+<div style="text-align: left;">
+
 - **08:30–08:45** Arrival  
 - **08:45–09:00** Opening remarks  
-- **09:00–10:00** Keynote Speech: *Title - TBA* by Jesujoba Alabi
+- **09:00–10:00** Keynote Speech  
 - **10:00–10:30** Paper 1: *Low-Resource Machine Translation for Moroccan Arabic*  
 - **10:30–11:00** Paper 2: *Automatic Fact-checking in English and Telugu*  
 - **11:00–12:00** Coffee break and poster session 1  
@@ -41,6 +43,8 @@ These disparities arise from a combination of factors: the scarcity of high-qual
 - **15:30–16:00** Paper 8: *Slur and Emoji Aware Models for Hate and Sentiment Detection in Roman Urdu Transgender Discourse*  
 - **16:00–16:30** Paper 9: *A Multi-Task Learning Approach to Dialectal Arabic Identification and Translation to Modern Standard Arabic*  
 - **16:30–17:30** Poster session 2  
+
+</div>
 
 ---
 
