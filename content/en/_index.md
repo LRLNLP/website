@@ -34,7 +34,7 @@ We look forward to your participation in Varna!
 
 ## Schedule (September 13, 2025)
 
-| Time            |   | Session |
+| Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   |   | Session |
 |-----------------|---|:--------|
 | **08:30–08:45** |   | Arrival |
 | **08:45–09:00** |   | Opening remarks |
