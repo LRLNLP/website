@@ -17,6 +17,93 @@ menu:
 
 <!-- --- -->
 
+## Schedule (September 13, 2025)
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <th style="width: 150px; text-align:left;">Time</th>
+    <th style="width: 20px;"></th>
+    <th style="text-align:left;">Session</th>
+  </tr>
+  <tr>
+    <td>08:30–08:45</td>
+    <td></td>
+    <td>Arrival</td>
+  </tr>
+  <tr>
+    <td>08:45–09:00</td>
+    <td></td>
+    <td>Opening remarks</td>
+  </tr>
+  <tr>
+    <td>09:00–10:00</td>
+    <td></td>
+    <td>Keynote Speech</td>
+  </tr>
+  <tr>
+    <td>10:00–10:30</td>
+    <td></td>
+    <td>Paper 1: <em>Low-Resource Machine Translation for Moroccan Arabic</em></td>
+  </tr>
+  <tr>
+    <td>10:30–11:00</td>
+    <td></td>
+    <td>Paper 2: <em>Automatic Fact-checking in English and Telugu</em></td>
+  </tr>
+  <tr>
+    <td>11:00–12:00</td>
+    <td></td>
+    <td>Coffee break and poster session 1</td>
+  </tr>
+  <tr>
+    <td>12:00–12:30</td>
+    <td></td>
+    <td>Paper 3: <em>Synthetic Voice Data for Automatic Speech Recognition in African Languages</em></td>
+  </tr>
+  <tr>
+    <td>12:30–13:00</td>
+    <td></td>
+    <td>Paper 4: <em>Bridging the Gap: Leveraging Cherokee to Improve Language Identification for Endangered Iroquoian Languages</em></td>
+  </tr>
+  <tr>
+    <td>13:00–13:30</td>
+    <td></td>
+    <td>Paper 5: <em>Building a Lightweight Classifier to Distinguish Closely Related Language Varieties with Limited Supervision: The Case of Catalan vs Valencian</em></td>
+  </tr>
+  <tr>
+    <td>13:30–14:30</td>
+    <td></td>
+    <td>Lunch break</td>
+  </tr>
+  <tr>
+    <td>14:30–15:00</td>
+    <td></td>
+    <td>Paper 6: <em>IfGPT: A Dataset in Bulgarian for Large Language Models</em></td>
+  </tr>
+  <tr>
+    <td>15:00–15:30</td>
+    <td></td>
+    <td>Paper 7: <em>Modular Training of Deep Neural Networks for Text Classification in Guarani</em></td>
+  </tr>
+  <tr>
+    <td>15:30–16:00</td>
+    <td></td>
+    <td>Paper 8: <em>Slur and Emoji Aware Models for Hate and Sentiment Detection in Roman Urdu Transgender Discourse</em></td>
+  </tr>
+  <tr>
+    <td>16:00–16:30</td>
+    <td></td>
+    <td>Paper 9: <em>A Multi-Task Learning Approach to Dialectal Arabic Identification and Translation to Modern Standard Arabic</em></td>
+  </tr>
+  <tr>
+    <td>16:30–17:30</td>
+    <td></td>
+    <td>Poster session 2</td>
+  </tr>
+</table>
+
+---
+
 Despite rapid progress in Natural Language Processing (NLP), the benefits of recent advances - especially large language models (LLMs) - remain unevenly distributed. While high-resource languages like English, French, and Chinese have seen significant performance gains, low-resource languages continue to face substantial challenges across core NLP tasks such as machine translation, sentiment analysis, named entity recognition (NER), and part-of-speech tagging.
 
 These disparities arise from a combination of factors: the scarcity of high-quality training data, limited linguistic resources, and a lack of community involvement in data collection and model development. As a result, many languages, particularly African, Indigenous, and minority languages, remain underrepresented in both academic research and deployed NLP systems.
@@ -28,28 +115,6 @@ For any questions, please drop a mail to lowresnlp-2025-organizers@googlegroups.
 Stay tuned for updates as we approach the workshop date!
 
 We look forward to your participation in Varna!
-
----
-
-## Schedule (September 13, 2025)
-
-| Time            |   | Session |
-|--------------------------|---|:--------|
-| **08:30–08:45&nbsp;&nbsp;&nbsp;** |   | Arrival |
-| **08:45–09:00&nbsp;&nbsp;&nbsp;** |   | Opening remarks |
-| **09:00–10:00&nbsp;&nbsp;&nbsp;** |   | Keynote Speech |
-| **10:00–10:30&nbsp;&nbsp;&nbsp;** |   | Paper 1: *Low-Resource Machine Translation for Moroccan Arabic* |
-| **10:30–11:00&nbsp;&nbsp;&nbsp;** |   | Paper 2: *Automatic Fact-checking in English and Telugu* |
-| **11:00–12:00&nbsp;&nbsp;&nbsp;** |   | Coffee break and poster session 1 |
-| **12:00–12:30&nbsp;&nbsp;&nbsp;** |   | Paper 3: *Synthetic Voice Data for Automatic Speech Recognition in African Languages* |
-| **12:30–13:00&nbsp;&nbsp;&nbsp;** |   | Paper 4: *Bridging the Gap: Leveraging Cherokee to Improve Language Identification for Endangered Iroquoian Languages* |
-| **13:00–13:30&nbsp;&nbsp;&nbsp;** |   | Paper 5: *Building a Lightweight Classifier to Distinguish Closely Related Language Varieties with Limited Supervision: The Case of Catalan vs Valencian* |
-| **13:30–14:30&nbsp;&nbsp;&nbsp;** |   | Lunch break |
-| **14:30–15:00&nbsp;&nbsp;&nbsp;** |   | Paper 6: *IfGPT: A Dataset in Bulgarian for Large Language Models* |
-| **15:00–15:30&nbsp;&nbsp;&nbsp;** |   | Paper 7: *Modular Training of Deep Neural Networks for Text Classification in Guarani* |
-| **15:30–16:00&nbsp;&nbsp;&nbsp;** |   | Paper 8: *Slur and Emoji Aware Models for Hate and Sentiment Detection in Roman Urdu Transgender Discourse* |
-| **16:00–16:30&nbsp;&nbsp;&nbsp;** |   | Paper 9: *A Multi-Task Learning Approach to Dialectal Arabic Identification and Translation to Modern Standard Arabic* |
-| **16:30–17:30&nbsp;&nbsp;&nbsp;** |   | Poster session 2 |
 
 ---
 
