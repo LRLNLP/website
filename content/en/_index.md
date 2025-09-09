@@ -34,23 +34,36 @@ We look forward to your participation in Varna!
 
 ## Schedule (September 13, 2025)
 
-| Time&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   |   | Session |
-|-----------------|---|:--------|
-| **08:30–08:45** |   | Arrival |
-| **08:45–09:00** |   | Opening remarks |
-| **09:00–10:00** |   | Keynote Speech |
-| **10:00–10:30** |   | Paper 1: *Low-Resource Machine Translation for Moroccan Arabic* |
-| **10:30–11:00** |   | Paper 2: *Automatic Fact-checking in English and Telugu* |
-| **11:00–12:00** |   | Coffee break and poster session 1 |
-| **12:00–12:30** |   | Paper 3: *Synthetic Voice Data for Automatic Speech Recognition in African Languages* |
-| **12:30–13:00** |   | Paper 4: *Bridging the Gap: Leveraging Cherokee to Improve Language Identification for Endangered Iroquoian Languages* |
-| **13:00–13:30** |   | Paper 5: *Building a Lightweight Classifier to Distinguish Closely Related Language Varieties with Limited Supervision: The Case of Catalan vs Valencian* |
-| **13:30–14:30** |   | Lunch break |
-| **14:30–15:00** |   | Paper 6: *IfGPT: A Dataset in Bulgarian for Large Language Models* |
-| **15:00–15:30** |   | Paper 7: *Modular Training of Deep Neural Networks for Text Classification in Guarani* |
-| **15:30–16:00** |   | Paper 8: *Slur and Emoji Aware Models for Hate and Sentiment Detection in Roman Urdu Transgender Discourse* |
-| **16:00–16:30** |   | Paper 9: *A Multi-Task Learning Approach to Dialectal Arabic Identification and Translation to Modern Standard Arabic* |
-| **16:30–17:30** |   | Poster session 2 |
+
+**08:30–08:45** — Arrival
+
+**08:45–09:00** — Opening remarks
+
+**09:00–10:00** — Keynote Speech
+
+**10:00–10:30** — Paper 1: *Low-Resource Machine Translation for Moroccan Arabic*
+
+**10:30–11:00** — Paper 2: *Automatic Fact-checking in English and Telugu*
+
+**11:00–12:00** — Coffee break and poster session 1
+
+**12:00–12:30** — Paper 3: *Synthetic Voice Data for Automatic Speech Recognition in African Languages*
+
+**12:30–13:00** — Paper 4: *Bridging the Gap: Leveraging Cherokee to Improve Language Identification for Endangered Iroquoian Languages*
+
+**13:00–13:30** — Paper 5: *Building a Lightweight Classifier to Distinguish Closely Related Language Varieties with Limited Supervision: The Case of Catalan vs Valencian*
+
+**13:30–14:30** — Lunch break
+
+**14:30–15:00** — Paper 6: *IfGPT: A Dataset in Bulgarian for Large Language Models*
+
+**15:00–15:30** — Paper 7: *Modular Training of Deep Neural Networks for Text Classification in Guarani*
+
+**15:30–16:00** — Paper 8: *Slur and Emoji Aware Models for Hate and Sentiment Detection in Roman Urdu Transgender Discourse*
+
+**16:00–16:30** — Paper 9: *A Multi-Task Learning Approach to Dialectal Arabic Identification and Translation to Modern Standard Arabic*
+
+**16:30–17:30** — Poster session 2
 
 ---
 
