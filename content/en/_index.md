@@ -18,6 +18,20 @@ menu:
 
 <!-- --- -->
 
+Despite rapid progress in Natural Language Processing (NLP), the benefits of recent advances - especially large language models (LLMs) - remain unevenly distributed. While high-resource languages like English, French, and Chinese have seen significant performance gains, low-resource languages continue to face substantial challenges across core NLP tasks such as machine translation, sentiment analysis, named entity recognition (NER), and part-of-speech tagging.
+
+These disparities arise from a combination of factors: the scarcity of high-quality training data, limited linguistic resources, and a lack of community involvement in data collection and model development. As a result, many languages, particularly African, Indigenous, and minority languages, remain underrepresented in both academic research and deployed NLP systems.
+
+**LowResNLP** is a workshop dedicated to addressing these challenges by fostering research, collaboration, and discussion around methods, resources, and evaluation practices specifically designed for low-resource languages. LowResNLP seeks to actively contribute to the field by inviting submissions that specifically address the unique challenges and opportunities involved in working with low-resource languages.
+
+For any questions, please drop a mail to lowresnlp-2025-organizers@googlegroups.com 
+
+Stay tuned for updates as we approach the workshop date!
+
+We look forward to your participation in Varna!
+
+---
+
 ## Schedule (September 13, 2025)
 
 | Time            |   | Session |
@@ -37,20 +51,6 @@ menu:
 | **15:30–16:00** |   | Paper 8: *Slur and Emoji Aware Models for Hate and Sentiment Detection in Roman Urdu Transgender Discourse* |
 | **16:00–16:30** |   | Paper 9: *A Multi-Task Learning Approach to Dialectal Arabic Identification and Translation to Modern Standard Arabic* |
 | **16:30–17:30** |   | Poster session 2 |
-
----
-
-Despite rapid progress in Natural Language Processing (NLP), the benefits of recent advances - especially large language models (LLMs) - remain unevenly distributed. While high-resource languages like English, French, and Chinese have seen significant performance gains, low-resource languages continue to face substantial challenges across core NLP tasks such as machine translation, sentiment analysis, named entity recognition (NER), and part-of-speech tagging.
-
-These disparities arise from a combination of factors: the scarcity of high-quality training data, limited linguistic resources, and a lack of community involvement in data collection and model development. As a result, many languages, particularly African, Indigenous, and minority languages, remain underrepresented in both academic research and deployed NLP systems.
-
-**LowResNLP** is a workshop dedicated to addressing these challenges by fostering research, collaboration, and discussion around methods, resources, and evaluation practices specifically designed for low-resource languages. LowResNLP seeks to actively contribute to the field by inviting submissions that specifically address the unique challenges and opportunities involved in working with low-resource languages.
-
-For any questions, please drop a mail to lowresnlp-2025-organizers@googlegroups.com 
-
-Stay tuned for updates as we approach the workshop date!
-
-We look forward to your participation in Varna!
 
 ---
 
