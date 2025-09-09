@@ -29,3 +29,5 @@ For any questions, please drop a mail to lowresnlp-2025-organizers@googlegroups.
 Stay tuned for updates as we approach the workshop date!
 
 We look forward to your submissions and participation in Varna!
+
+This workshop was partially supported by the European Union under Horizon Europe project "GAIN" (GA #101078950).
