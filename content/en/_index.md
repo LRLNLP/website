@@ -1,12 +1,12 @@
 ---
-title: "Home"
+title: "LowResNLP"
 weight: 0
 description: "Workshop on Advancing NLP for Low-Resource Languages at RANLP 2025 (Varna, Bulgaria), Sep 13"
 
 theme_version: '2.8.2'
 cascade:
   featured_image: 'images/lrls_.png'
-  featured_image_style: "object-fit: contain; max-height: 400px;"
+  featured_image_style: "object-fit: contain;"
 menu:
   main:
     weight: 1
@@ -23,34 +23,34 @@ These disparities arise from a combination of factors: the scarcity of high-qual
 
 **LowResNLP** is a workshop dedicated to addressing these challenges by fostering research, collaboration, and discussion around methods, resources, and evaluation practices specifically designed for low-resource languages. LowResNLP seeks to actively contribute to the field by inviting submissions that specifically address the unique challenges and opportunities involved in working with low-resource languages.
 
----
-
-## Schedule (September 13, 2025)
-
-| Time        | Session |
-|-------------|:--------|
-| **08:30–08:45** | Arrival |
-| **08:45–09:00** | Opening remarks |
-| **09:00–10:00** | Keynote Speech |
-| **10:00–10:30** | Paper 1: *Low-Resource Machine Translation for Moroccan Arabic* |
-| **10:30–11:00** | Paper 2: *Automatic Fact-checking in English and Telugu* |
-| **11:00–12:00** | Coffee break and poster session 1 |
-| **12:00–12:30** | Paper 3: *Synthetic Voice Data for Automatic Speech Recognition in African Languages* |
-| **12:30–13:00** | Paper 4: *Bridging the Gap: Leveraging Cherokee to Improve Language Identification for Endangered Iroquoian Languages* |
-| **13:00–13:30** | Paper 5: *Building a Lightweight Classifier to Distinguish Closely Related Language Varieties with Limited Supervision: The Case of Catalan vs Valencian* |
-| **13:30–14:30** | Lunch break |
-| **14:30–15:00** | Paper 6: *IfGPT: A Dataset in Bulgarian for Large Language Models* |
-| **15:00–15:30** | Paper 7: *Modular Training of Deep Neural Networks for Text Classification in Guarani* |
-| **15:30–16:00** | Paper 8: *Slur and Emoji Aware Models for Hate and Sentiment Detection in Roman Urdu Transgender Discourse* |
-| **16:00–16:30** | Paper 9: *A Multi-Task Learning Approach to Dialectal Arabic Identification and Translation to Modern Standard Arabic* |
-| **16:30–17:30** | Poster session 2 |
-
----
-
 For any questions, please drop a mail to lowresnlp-2025-organizers@googlegroups.com 
 
 Stay tuned for updates as we approach the workshop date!
 
-We look forward to your submissions and participation in Varna!
+We look forward to your participation in Varna!
+
+---
+
+## Schedule (September 13, 2025)
+
+| Time            |   | Session |
+|-----------------|---|:--------|
+| **08:30–08:45** |   | Arrival |
+| **08:45–09:00** |   | Opening remarks |
+| **09:00–10:00** |   | Keynote Speech |
+| **10:00–10:30** |   | Paper 1: *Low-Resource Machine Translation for Moroccan Arabic* |
+| **10:30–11:00** |   | Paper 2: *Automatic Fact-checking in English and Telugu* |
+| **11:00–12:00** |   | Coffee break and poster session 1 |
+| **12:00–12:30** |   | Paper 3: *Synthetic Voice Data for Automatic Speech Recognition in African Languages* |
+| **12:30–13:00** |   | Paper 4: *Bridging the Gap: Leveraging Cherokee to Improve Language Identification for Endangered Iroquoian Languages* |
+| **13:00–13:30** |   | Paper 5: *Building a Lightweight Classifier to Distinguish Closely Related Language Varieties with Limited Supervision: The Case of Catalan vs Valencian* |
+| **13:30–14:30** |   | Lunch break |
+| **14:30–15:00** |   | Paper 6: *IfGPT: A Dataset in Bulgarian for Large Language Models* |
+| **15:00–15:30** |   | Paper 7: *Modular Training of Deep Neural Networks for Text Classification in Guarani* |
+| **15:30–16:00** |   | Paper 8: *Slur and Emoji Aware Models for Hate and Sentiment Detection in Roman Urdu Transgender Discourse* |
+| **16:00–16:30** |   | Paper 9: *A Multi-Task Learning Approach to Dialectal Arabic Identification and Translation to Modern Standard Arabic* |
+| **16:30–17:30** |   | Poster session 2 |
+
+---
 
 This workshop was partially supported by the European Union under Horizon Europe projects "GAIN" (GA #101078950), "DisAI" (GA #101079164), and "lorAI" (GA #101136646).
