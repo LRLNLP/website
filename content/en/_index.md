@@ -28,7 +28,7 @@ These disparities arise from a combination of factors: the scarcity of high-qual
 ## Schedule (September 13, 2025)
 
 | Time        | Session |
-|-------------|---------|
+|-------------|:--------|
 | **08:30–08:45** | Arrival |
 | **08:45–09:00** | Opening remarks |
 | **09:00–10:00** | Keynote Speech |
