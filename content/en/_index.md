@@ -67,4 +67,4 @@ We look forward to your participation in Varna!
 
 ---
 
-This workshop was partially supported by the European Union under Horizon Europe projects "GAIN" (GA #101078950), "DisAI" (GA #101079164), and "lorAI" (GA #101136646).
+This workshop was supported by the European Union under Horizon Europe projects GAIN (GA #101078950), DisAI (GA #101079164), and lorAI (GA #101136646), and by the Generalitat Valenciana (Conselleria d’Educació, Investigació, Cultura i Esport) through the project The limits and future of data-driven approaches: A comparative study of deep learning, knowledge-based and rule-based models and methods in Natural Language Processing (CIDEXG/2023/13).
