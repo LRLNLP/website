@@ -16,7 +16,7 @@ For any questions, please drop a mail to loewresnlp-2025-organizers@googlegroups
 - **Ernesto Luis Estevanell-Valladares** (University of Alicante, Spain; University of Havana, Cuba)  
 - **Alicia Picazo-Izquierdo** (University of Alicante, Spain)  
 - **Tharindu Ranasinghe** (Lancaster University, UK)  
-- **Besik Mikaberidze** (Georgian Technical University, Georgia)  
+- **Besik Mikaberidze** (Muskhelishvili Institute of Computational Mathematics, Georgian Technical University, Georgia)  
 - **Simon Ostermann** (German Research Center for Artificial Intelligence, Germany)  
 - **Daniil Gurgurov** (German Research Center for Artificial Intelligence, Germany)  
 - **Philipp Müller** (German Research Center for Artificial Intelligence, Germany)  
