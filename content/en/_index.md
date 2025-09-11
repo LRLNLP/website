@@ -72,4 +72,4 @@ This workshop was supported by the European Union under Horizon Europe projects 
 <!-- <p align="center">
   <img src='{{ "images/eu_flag.png" | relURL }}' alt="EU flag"/>
 </p> -->
-![EU flag](https://lrlnlp.github.io/website/images/eu_flag.png)
+![EU flag](https://lrlnlp.github.io/website/images/eu_flag_transparent.png)
