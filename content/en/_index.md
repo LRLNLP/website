@@ -68,3 +68,8 @@ We look forward to your participation in Varna!
 ---
 
 This workshop was supported by the European Union under Horizon Europe projects GAIN: “Georgian Artificial Intelligence Networking and Twinning Initiative” (GA #101078950), DisAI: "Improving Scientific Excellence and Creativity in Combating Disinformation with Artificial Intelligence and Language Technologies” (GA #101079164), and LorAI: "Low Resource Artificial Intelligence" (GA #101136646), and by the Generalitat Valenciana (Conselleria d’Educació, Investigació, Cultura i Esport) through the project “The limits and future of data-driven approaches: A comparative study of deep learning, knowledge-based and rule-based models and methods in Natural Language Processing” (CIDEXG/2023/13).
+
+<!-- <p align="center">
+  <img src='{{ "images/eu_flag.png" | relURL }}' alt="EU flag"/>
+</p> -->
+![EU flag](https://lrlnlp.github.io/website/images/eu_flag.png)
