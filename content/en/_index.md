@@ -34,41 +34,41 @@ We look forward to your participation in Varna!
 
 # Schedule (September 13, 2025)
 
-**08:45–09:00** — Arrival  
+**08:45–09:00** — Arrival
 
-**09:00–10:00** — Keynote Speech, *Jesujoba Oluwadara Alabi*  
+**09:00–10:00** — **Keynote Speech**, Jesujoba Oluwadara Alabi
 
-**10:00–10:30** — *Low-Resource Machine Translation for Moroccan Arabic*  
-Alexei Rosca, Abderrahmane Issam and Gerasimos Spanakis  
+**10:00–10:30** — _**Low-Resource Machine Translation for Moroccan Arabic,**_  
+_Alexei Rosca, Abderrahmane Issam and Gerasimos Spanakis_
 
-**10:30–11:30** — Coffee break and poster session 1  
+**10:30–11:30** — **Coffee break and poster session 1**
 
-**11:30–12:00** — *Building a Lightweight Classifier to Distinguish Closely Related Language Varieties with Limited Supervision: The Case of Catalan vs Valencian*  
-Raúl García Cerdá, María Miró Maestre and Miquel Canal  
+**11:30–12:00** — _**Building a Lightweight Classifier to Distinguish Closely Related Language Varieties with Limited Supervision:**_   
+_**The Case of Catalan vs Valencian,**_ _Raúl García Cerdá, María Miró Maestre and Miquel Canal_
 
-**12:00–12:30** — *Automatic Fact-checking in English and Telugu*  
-Ravi Kiran Chikkala, Tatiana Anikina, Natalia Skachkova, Ivan Vykopal, Rodrigo Agerri and Josef van Genabith  
+**12:00–12:30** — _**Automatic Fact-checking in English and Telugu,**_  
+_Ravi Kiran Chikkala, Tatiana Anikina, Natalia Skachkova, Ivan Vykopal, Rodrigo Agerri and Josef van Genabith_
 
-**12:30–13:00** — *Bridging the Gap: Leveraging Cherokee to Improve Language Identification for Endangered Iroquoian Languages*  
-Liam Enzo Eggleston, Michael P. Cacioli, Jatin Sarabu, Ivory Yang and Kevin Zhu  
+**12:30–13:00** — _**Bridging the Gap: Leveraging Cherokee to Improve Language Identification for Endangered Iroquoian Languages,**_  
+_Liam Enzo Eggleston, Michael P. Cacioli, Jatin Sarabu, Ivory Yang and Kevin Zhu_
 
-**13:00–15:00** — Lunch break  
+**13:00–15:00** — **Lunch break**
 
-**15:00–15:30** — *IfGPT: A Dataset in Bulgarian for Large Language Models*  
-Svetla Peneva Koeva, Ivelina Stoyanova and Jordan Konstantinov Kralev  
+**15:00–15:30** — _**IfGPT: A Dataset in Bulgarian for Large Language Models,**_  
+_Svetla Peneva Koeva, Ivelina Stoyanova and Jordan Konstantinov Kralev_
 
-**15:30–16:00** — *Modular Training of Deep Neural Networks for Text Classification in Guarani*  
-Jose Luis Vazquez, Carlos Ulises Valdez, Marvin Matías Agüero-Torales, Julio César Mello-Román, Jose Domingo Colbes and Sebastian Alberto Grillo  
+**15:30–16:00** — _**Modular Training of Deep Neural Networks for Text Classification in Guarani,**_  
+_Jose Luis Vazquez, Carlos Ulises Valdez, Marvin Matías Agüero-Torales, Julio César Mello-Román, Jose Domingo Colbes and Sebastian Alberto Grillo_
 
-**16:00–16:30** — Coffee break and poster session 2  
+**16:00–16:30** — **Coffee break and poster session 2**
 
-**16:30–17:00** — *Slur and Emoji Aware Models for Hate and Sentiment Detection in Roman Urdu Transgender Discourse*  
-Muhammad Owais Raza, Aqsa Umar and Mehrub Awan  
+**16:30–17:00** — _**Slur and Emoji Aware Models for Hate and Sentiment Detection in Roman Urdu Transgender Discourse,**_  
+_Muhammad Owais Raza, Aqsa Umar and Mehrub Awan_
 
-**17:00–17:30** — *A Multi-Task Learning Approach to Dialectal Arabic Identification and Translation to Modern Standard Arabic*  
-Abdullah Khered, Youcef Benkhedda and Riza Batista-Navarro  
+**17:00–17:30** — _**A Multi-Task Learning Approach to Dialectal Arabic Identification and Translation to Modern Standard Arabic,**_  
+_Abdullah Khered, Youcef Benkhedda and Riza Batista-Navarro_
 
-**17:30–17:45** — Closing  
+**17:30–17:45** — **Closing**
 
 ---
 
